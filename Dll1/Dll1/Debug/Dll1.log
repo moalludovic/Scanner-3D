@@ -1,2 +1,7 @@
-﻿  Dll1.cpp
-  Dll1.vcxproj -> C:\Users\Ludov\source\repos\Dll1\Debug\Dll1.dll
+﻿  stdafx.cpp
+  dllmain.cpp
+  Dll1.cpp
+  Génération de code en cours...
+  LINK : C:\Users\Ludov\Desktop\Scanner-3D\Dll1\Debug\Dll1.dll introuvable ou non généré par la dernière édition de liens incrémentielle ; édition de liens complète en cours
+     Création de la bibliothèque C:\Users\Ludov\Desktop\Scanner-3D\Dll1\Debug\Dll1.lib et de l'objet C:\Users\Ludov\Desktop\Scanner-3D\Dll1\Debug\Dll1.exp
+  Dll1.vcxproj -> C:\Users\Ludov\Desktop\Scanner-3D\Dll1\Debug\Dll1.dll
